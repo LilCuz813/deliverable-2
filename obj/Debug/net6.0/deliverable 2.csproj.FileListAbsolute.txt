@@ -1,0 +1,15 @@
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/deliverable 2.csproj.AssemblyReference.cache
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/deliverable 2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/deliverable 2.AssemblyInfoInputs.cache
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/deliverable 2.AssemblyInfo.cs
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/deliverable 2.csproj.CoreCompileInputs.cache
+/Users/CTown813/Projects/deliverable 2/bin/Debug/net6.0/deliverable 2
+/Users/CTown813/Projects/deliverable 2/bin/Debug/net6.0/deliverable 2.deps.json
+/Users/CTown813/Projects/deliverable 2/bin/Debug/net6.0/deliverable 2.runtimeconfig.json
+/Users/CTown813/Projects/deliverable 2/bin/Debug/net6.0/deliverable 2.dll
+/Users/CTown813/Projects/deliverable 2/bin/Debug/net6.0/deliverable 2.pdb
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/deliverable 2.dll
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/refint/deliverable 2.dll
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/deliverable 2.pdb
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/deliverable 2.genruntimeconfig.cache
+/Users/CTown813/Projects/deliverable 2/obj/Debug/net6.0/ref/deliverable 2.dll
